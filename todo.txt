@@ -1,0 +1,7 @@
+2. CLEANING QUE JÁ SE PODE FAZER
+checkar as rows que são iguais a ver se podem ser elimanadas (acho que sim pq é basicamente indefindo pra tudo)
+compor os nomes das cenas tipo M Masculino o mesmo , o mesmo nome em maiusculas e minusculas
+checkar que colunas podem ser eliminadas com valores impossiveis
+checkar com os Nan (#values! e merdas assim podem ir de vel )quais colunas se pode dropar
+
+
